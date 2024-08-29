@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My name is Natasha! This is web!
+# My name is Natasha! This is Web!
