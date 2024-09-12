@@ -1,0 +1,37 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.Quote{
+    font-style: italic;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+.Indent{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;  
+}
+
+table{
+    margin: 1em 0;
+    border: 1px;
+    border-collapse: collapse;
+    color: black;
+    width: 50%;
+}
+
+tr{
+    text-align: center;
+    border: 1px solid;
+}
+
+.Image{
+    width: 300px;
+    float: right;
+}
