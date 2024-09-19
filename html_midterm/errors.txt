@@ -1,0 +1,28 @@
+Natasha Terekhova and Lauren Kerrigan
+
+Find_errors.html
+1. Line 1, there is no <!DOCTYPE html> to start the file.
+2. Line 2, <html> tag is missing lang = "en"
+3. Line 5, <html language = "en"> is not needed within the head
+4. Line 7, no closing tag for <head>
+5. Line 10, no closing tag for <h1>
+6. Line 6, no opening tag for </p>
+7. Line 20, list item opening tag should not have a backslash
+8. Line 25, ordered list closing tag should not be </ul>, but </ol>
+9. Line 27, no closing tag for <p>
+10. Line 29, no alternate phrase for image
+11. Line 29, Image.png is incorrect src, should be image.jpg
+12. Line 31, incorrect closing tag for <a> 
+13. Line 40, <td> tag does not have proper closing tag
+14. Line 46, no closing tag for <table>
+15. Line 48, source should be written as src
+16. Line 48, error.jpg wrtten incorrectly (is written as error.jpeg)
+17. Line 50, no <p> tags
+18. Line 50, no <s> tags for strikethrough text
+19. Line 52, bgcolor is an incorrect attribute, should be style = "color: lightgray"
+20. Line 56, comment has no end tag -->
+21. Line 58, no closing tag for <a>
+22. Line 60, underlined text should be <u> and the end tag should be before the paragraph end tag
+23. Line 63, <li></li> should be <dt></dt>
+24. Line 64, <li></li> should be <dd></dd>
+25. Line 67, incorrect closing tag for <h2> (is written as <h3>)
