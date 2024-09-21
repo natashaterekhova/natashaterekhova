@@ -1,6 +1,6 @@
 Natasha Terekhova and Lauren Kerrigan
 
-Find_errors.html
+find_errors.html
 1. Line 1, there is no <!DOCTYPE html> to start the file.
 2. Line 2, <html> tag is missing lang = "en"
 3. Line 5, <html language = "en"> is not needed within the head
@@ -26,3 +26,20 @@ Find_errors.html
 23. Line 63, <li></li> should be <dt></dt>
 24. Line 64, <li></li> should be <dd></dd>
 25. Line 67, incorrect closing tag for <h2> (is written as <h3>)
+
+find_errors_2.html
+26. line 1 - incomplete <!DOCTYPE html> tag to start the page
+27. line 1 - html tag is missing the language="en" to specify the language
+28. line 5 - missing closing </head> tag
+29. line 5 - opening <body> tag is missing '>'  
+30. line 6 - extra opening <html> tag
+31. line 8 - missing closing </strong> tag after 'important'
+32. line 8 - missing closing </p> tag to close off the text
+33. line 10 - 'image_2.jpg' is missing an underscore
+34. line 10 - using an href="" attribute when src="" and alt="" should be used instead
+35. line 11 - missing closing </div> tag 
+36. line 13 - missing opening <h2> tag to mark a header 
+37. line 14 - missing opening <p> tag to start the text 
+38. line 16 - missing closing </body> tag
+39. line 16 - closing </html> tag is missing an 'l' 
+40. line 16 - comment is written as <text> when it should be written as <!--text-->
