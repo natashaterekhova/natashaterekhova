@@ -34,14 +34,13 @@ body {
 .card header{
   background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
   border-radius: 1.5em 1.5em 0 0;
+  height:  3em;
+  padding: 1em;
 }
 
 .card footer{
   background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
   border-radius: 0 0 1.5em 1.5em;
-}
-
-.card footer, header{
   height:  3em;
   padding: 1em;
 }
@@ -75,6 +74,7 @@ body {
 
 .card footer p{
   font-size: 1.5em;
+  line-height: 2em;
 }
 
 #Natasha h2, #Natasha footer p{
@@ -82,6 +82,6 @@ body {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#Natasha, article p{
+#Natasha article p{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
