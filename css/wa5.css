@@ -42,7 +42,7 @@ body {
 }
 
 .card footer, header{
-  content:  3em;
+  height:  3em;
   padding: 1em;
 }
 
