@@ -1,0 +1,26 @@
+/*weight: 1*/
+p{
+    color: red;
+}
+
+/*weight: 10*/
+.purple{
+    color: purple;
+}
+
+/*weight = 101*/
+#blue{
+    color: blue;
+}
+
+div {
+    border-style: dashed;
+    border-color: red;
+    padding: 30px;
+    margin:30px;
+}
+
+#first_div{
+    position: fixed;
+    top: 60px;
+}
