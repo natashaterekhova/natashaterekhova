@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+ul{
+    list-style: none; /*removes bullets*/
+    display: flex;
+    background-color: black;
+    margin:0;
+    padding: 10px;
+    justify-content: flex-end;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px; /*first value: top/bottom, second value: sleft right*/
+    font-family: "Qwitcher Grypen", cursive;
+
+}
+
+li a:hover{
+    background-color: darkslategrey;
+}
+
+li a:active{
+    background-color:white;
+    color: black;
+}
+
+@media screen and (max-width: 800px){
+    body{
+        background-color: limegreen;
+    }
+    ul{
+        flex-direction: column;
+    }
+    li a{
+        width: 100vw;
+        padding: 10px 30px;
+    }
+
+    li:hover{
+        background-color: red;
+    }
+}
+
