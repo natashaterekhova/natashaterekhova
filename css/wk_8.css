@@ -16,11 +16,17 @@ li a{
     color: white;
     padding: 10px 30px; /*first value: top/bottom, second value: sleft right*/
     font-family: "Qwitcher Grypen", cursive;
+    transition: color 1s, font-size 1s;
+    font-size: 15px;
+
 
 }
 
 li a:hover{
     background-color: darkslategrey;
+    color: yellow;
+    font-size:30px;
+
 }
 
 li a:active{
