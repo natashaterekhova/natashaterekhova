@@ -34,7 +34,7 @@ li a:active{
     color: black;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 400px){
     body{
         background-color: limegreen;
     }
