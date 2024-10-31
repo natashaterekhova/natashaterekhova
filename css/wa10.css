@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: "le-monde-livre-classic-byol", serif;
+    font-weight: 300;
+    font-style: normal; 
+    background-color: rgb(209, 190, 162);
+    margin: auto;
+    width: 50%;
+}
+
+label {
+  font-weight: bold;
+}
+
+div {
+  padding-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 150px;
+}
+
+p {
+  background: #862a2a;
+  color: #ffffff;
+  padding: 10px;
+  visibility: hidden;
+}
