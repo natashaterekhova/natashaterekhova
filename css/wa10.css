@@ -8,16 +8,12 @@ body {
     width: 50%;
 }
 
-label {
-  font-weight: bold;
-}
-
 div {
-  padding-bottom: 20px;
+  padding-bottom: 25px;
 }
 
 input[type="text"] {
-  padding: 5px;
+  padding: 1em;
   width: 150px;
 }
 
