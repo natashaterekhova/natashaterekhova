@@ -1,0 +1,44 @@
+{
+	"projects": [{
+			"name": "Save Our Mother",
+			"subdomain": "save_mother",
+			"category": ["2-D"],
+			"subtitle": "We all share her, now let's save her.",
+			"description": ["Inspired by the protest art of Fairey and Vallain, I wanted to make a piece of art that would represent the dire circumstances of the environment (the fire in the background) while also depicting the world as a human, thereby humanizing the issue of climate change. After conducting surveys to learn what peers believe Mother Nature looks like, I was able to depict a woman of race, ethnicity, and overall depiction that others may see as Mother Nature."],
+			"mainimg": "IMG_1.jpg",
+			"progimages": ["IMG_1_1.jpg", "IMG_1_2.jpg", "IMG_1_3.jpg", "IMG_1_4.jpg", "IMG_1.jpg"]			
+	},{
+			"name": "Connected",
+			"subdomain": "connected",
+			"category": ["2-D"],
+			"subtitle": "A Diptych of Interconnection between Humans and Nature",
+			"description": ["Destroying and creating are two juxtaposing ideas. However, this juxtaposition can create unity; change is inevitable as is destruction, but recreation and rebirth occur as a cause of destruction. As said Mikhail Bakunin, a famous Russian anarchist and socialist, 'The urge to destroy is also a creative urge.' This can be applied to the art I planned to make, as destruction can serve as a backbone to the creation of something new. The goal of this artwork was to take an old piece of art, destroy it, and then transform it into something new. I have never cut up and destroyed artwork before, and I was very nervous about destroying an old piece of art. However, once I completed the diptych, I found myself satisfied with the destruction of my initial painting, since I was able to transform it into something new. This process could also be analogued to the way we connect, as we have to cut ourselves open to make deeper connections with one another."],
+			"mainimg": "IMG_2.jpg",
+			"progimages": ["IMG_2_1.jpg","IMG_2_2.jpg","IMG_2_3.jpg","IMG_2_4.jpg","IMG_2_5.jpg","IMG_2_6.jpg","IMG_2_7.jpg","IMG_2_8.jpg","IMG_2_9.jpg", "IMG_2.jpg"]
+	},{
+			"name": "The Shoe",
+			"subdomain": "shoe",
+			"category": ["2-D"],
+			"subtitle": "A Chalk and Charcoal Investigation into the Limits of What I Can Accomplish",
+			"description": ["This project was a 6 foot by 3.5 foot charcoal and chalk drawing of a shoe of choice. After selecting one of the oldest shoes I have, with wrinkles, holes, broken seams, and dirty shoelaces, I was up to the challenge. The most difficult learning curve was taking it slow - despite thinking that I needed to rush to finish everything, I forced myself to work slow and pay attention to the details, the proportions, the tiny shadows, and only at the end really dive in with the contrast of the deep shadows and starkingly white laces."],
+			"mainimg": "IMG_3.jpg",
+			"progimages": ["IMG_3_1.jpg","IMG_3_2.jpg","IMG_3_3.jpg","IMG_3_4.jpg","IMG_3_5.jpg","IMG_3_6.jpg","IMG_3_7.jpg","IMG_3_8.jpg","IMG_3.jpg"]
+	},{
+			"name": "Family Garden",
+			"subdomain": "family_garden",
+			"category": ["textile"],
+			"subtitle": "Representations of My Family through Embroidery",
+			"description": ["When I was young, my mom worked on a project for several months: she painted individual flowers on canvases to depict everyone in our family, both close and extended. While this project came to an end, it became a huge part of the house we lived in, with these flowers hanging everywhere in our house. This inspired me to explore myself and my family through my own artistic ventures by making the most important people in my life into flowers."],
+			"mainimg": "IMG_4.jpg",
+			"progimages": ["IMG_4_1.jpg", "IMG_4_2.jpg", "IMG_4_3.jpg","IMG_4_4.jpg","IMG_4_5.jpg","IMG_4_6.jpg","IMG_4_7.jpg","IMG_4_8.jpg"]
+	},{
+		"name": "Sweater of Love",
+		"subdomain": "sweater",
+		"category": ["textile"],
+		"subtitle": "My First Knitted Sweater",
+		"description": ["Though the project is not as artistic or impressive as my other ones, this was my first time exploring the medium of knitting. Being able to explore my technique in other mediums was critical, as I have always felt very confined to work in 2-D mediums. This allowed me to explore a different form of art, while also being able to control everything and keep everything simple."],
+		"mainimg": "IMG_5.jpg",
+		"progimages": ["IMG_5_1.jpg","IMG_5_2.jpg","IMG_5_3.jpg","IMG_5.jpg"]
+	}
+	]
+}
