@@ -43,6 +43,6 @@
 	],
 	"aboutme": [{
 		"subdomain": "aboutme",
-		"images": ["me_1.jpg","me_2.JPG","me_3.JPG","me_4.jpg","me_5.jpg","me_6.jpg"]
+		"images": ["me_1.jpg","me_2.JPG","me_3.JPG","me_4.jpg"]
 	}]
 }
