@@ -40,5 +40,9 @@
 		"mainimg": "IMG_5.jpg",
 		"progimages": ["IMG_5_1.jpg","IMG_5_2.jpg","IMG_5_3.jpg","IMG_5.jpg"]
 	}
-	]
+	],
+	"aboutme": [{
+		"subdomain": "aboutme",
+		"images": ["me_1.jpg","me_2.jpg","me_3.jpg","me_4.jpg","me_5.jpg","me_6.jpg"]
+	}]
 }

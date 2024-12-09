@@ -108,6 +108,7 @@ li a:active{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 25em;
 }
 
 .project:hover{
@@ -116,6 +117,13 @@ li a:active{
 
 .project img{
     width:200px;
+}
+
+button {
+    font-family: "Noto Serif Ahom", serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
 }
 
 #buttons{
@@ -138,7 +146,6 @@ li a:active{
     flex-direction: column;
     align-items: center;
     max-width: 600px;
-    margin: 0 auto;
 }
 
 .displayed-img {
@@ -168,6 +175,70 @@ li a:active{
     border-color: rgb(74, 20, 20); 
 }
 
+#description {
+    color: rgb(245, 245, 220);
+    background-color:rgb(46, 123, 60);
+    border-radius: 25px;
+    display: flex;
+}
+
 h1{
     font-size: 30px;
+}
+
+.accordion {
+    background-color: rgb(245, 245, 220);
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+
+  .active, .accordion:hover {
+    background-color: rgb(186, 186, 153);
+  }
+
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+  } 
+
+#me1{
+    background-color:rgb(6, 52, 24);
+    border-radius: 25px;
+}
+
+#me1 h2{
+    color: white;
+    padding: 10px;
+}
+
+#me2{
+    background-color: rgb(12, 84, 41);
+    border-radius: 25px;
+}
+
+#me2 h2{
+    color: white;
+    padding: 10px;
+}
+
+#me3{
+    background-color: rgb(43, 135, 80);
+    border-radius: 25px;
+}
+
+#me3 h2{
+    color: white;
+    padding: 10px;
+}
+
+#aboutmep{
+    display: flex;
+    justify-content: center;
 }
